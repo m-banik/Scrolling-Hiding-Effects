@@ -1,0 +1,23 @@
+		* {
+			padding: 0;
+			margin: 0;
+			box-sizing: border-box;
+		}
+
+		header,
+		footer {
+			height: 100vh;
+			background-image: url("../src/img/rainbow-1418706_1280.png");
+			background-position: center;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+
+		footer {
+			background-image: url("../src/img/corn-3663086_1280.jpg");
+		}
+
+		main {
+			height: 50vh;
+			background-color: #000;
+		}
